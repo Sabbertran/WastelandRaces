@@ -1,0 +1,9 @@
+### WastelandRaces Race file ###
+## All races and effects are defined here ##
+# Edit this file to change races and effects #
+
+# RaceName:EffectName:Amplifier #
+SampleRace:SPEED:2
+SampleRace2:HUNGER:1
+SampleRace3:REGENERATION:5
+SampleRace:WITHER:3

@@ -1,0 +1,10 @@
+name: WastelandRaces
+main: me.sabbertran.wastelandraces.WastelandRaces
+version: 1.0.1
+website: http://www.sabbertran.tk/
+author: Sabbertran
+description: Races for Fallout
+commands:
+  race:
+    description: Use this command for races
+    usage: "/race"
